@@ -27,13 +27,13 @@ In this project, I've harnessed the power of machine learning to cluster custome
 ⭐Achieve Seamless Customer Interactions: Create a cohesive and personalized experience for Mitron Bank's valued customers.
 
 # 🌐 IMPORTANT LINKS 🌐
-📌 Full Youtube Video link : https://www.youtube.com/watch?v=2EJcXZGZ7bg <br>
+## 📌 Full Youtube Video link : https://www.youtube.com/watch?v=2EJcXZGZ7bg <br>
 [![IMAGE ALT TEXT HERE](https://i3.ytimg.com/vi/2EJcXZGZ7bg/maxresdefault.jpg)](https://www.youtube.com/watch?v=2EJcXZGZ7bg)
-📌 Streamlit Application : https://crpc8-mitron-bank-credit-card-sahil-kavitake.streamlit.app/ <br>
+## 📌 Streamlit Application : https://crpc8-mitron-bank-credit-card-sahil-kavitake.streamlit.app/ <br>
 [![IMAGE ALT TEXT HERE](https://github.com/SahilSK202/mitron_bank_customer_data_analysis/blob/main/assets/streamlit.png)](https://crpc8-mitron-bank-credit-card-sahil-kavitake.streamlit.app/)
-📌 Google Colab: https://colab.research.google.com/drive/1Gzdm3hKOL10-5ZOci6qheXxGLrxGz4Wk<br> 
+## 📌 Google Colab: https://colab.research.google.com/drive/1Gzdm3hKOL10-5ZOci6qheXxGLrxGz4Wk<br> 
 [![](https://colab.google/static/images/icons/colab.png)](https://colab.research.google.com/drive/1Gzdm3hKOL10-5ZOci6qheXxGLrxGz4Wk) <br>
-📌 Canva Presentation Link : https://www.canva.com/design/DAF36QAiqxE/IebfCWFpAdZhzAE8LOLTLQ/edit/
+## 📌 Canva Presentation Link : https://www.canva.com/design/DAF36QAiqxE/IebfCWFpAdZhzAE8LOLTLQ/edit/
 
 # 🙏 Special thanks 🙏
 Thanking Mr.Bashnir Rover Sir, Dhaval Patel Sir, Hemanand Vadivel Sir and Codebasics team for providing me with opportunities like this to utilize and showcase my skills.
