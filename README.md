@@ -1,4 +1,4 @@
-# ML-Driven Insights in the Banking Domain ( End to End Customer Segmentation)
+# ML-Driven Insights in the Banking Domain <br> ( End to End Customer Segmentation)
 Mitron Bank is a legacy financial institution headquartered in Hyderabad. They want to introduce a new line of credit cards, aiming to broaden its product offerings and reach in the financial market. This analysis is expected to guide them in tailoring the credit cards to customer needs and market trends. 
 
 🤩Thrilled to share a journey of discovery as Mitron Bank embarks on a credit card innovation! 
@@ -8,11 +8,11 @@ As a Data Analyst, I explored a sample dataset of 4000 customers across five cit
 Mitron Bank, a financial legacy, envisioned new credit cards to enrich their offerings. Mr. Bashnir Rover's strategic skepticism led to a pilot project with sample data, and that's where my role began. 
 
 # 📊 Key Insights Unveiled 📊
-🏙️ Demographic and Income Analysis : Explored ustomer demographics and Evaluated income distribution among customers
-💸Spending Behavior Analysis: Diving into how customers spend to reveal valuable insights.
-
+🏙️ Demographic and Income Analysis : Explored ustomer demographics and Evaluated income distribution among customers <br>
+<img src="https://github.com/SahilSK202/mitron_bank_customer_data_analysis/blob/main/assets/21.png" class="center">
+💸 Spending Behavior Analysis: Diving into how customers spend to reveal valuable insights.  <br>
+<img src="https://github.com/SahilSK202/mitron_bank_customer_data_analysis/blob/main/assets/36.png" class="center">
 👥 Customer Segmentation: Going the extra mile with machine learning to cluster customers for personalized insights.
- 
 💳Credit Card Features Recommendations: Navigating the data to unearth strategic insights for customized credit card offerings.
 
 🛠️ The Tech Magic 🛠️
@@ -27,9 +27,12 @@ In this project, I've harnessed the power of machine learning to cluster custome
 ⭐Achieve Seamless Customer Interactions: Create a cohesive and personalized experience for Mitron Bank's valued customers.
 
 # 🌐 IMPORTANT LINKS 🌐
-📌 Full Youtube Video link : https://lnkd.in/dz5sDS5v <br>
+📌 Full Youtube Video link : https://www.youtube.com/watch?v=2EJcXZGZ7bg <br>
+[![IMAGE ALT TEXT HERE](https://i3.ytimg.com/vi/2EJcXZGZ7bg/maxresdefault.jpg)](https://www.youtube.com/watch?v=2EJcXZGZ7bg)
 📌 Streamlit Application : https://lnkd.in/djdzY6-d <br>
-📌 GitHub: https://lnkd.in/d9FuWduC <br>
+[![IMAGE ALT TEXT HERE](https://github.com/SahilSK202/mitron_bank_customer_data_analysis/blob/main/assets/streamlit.png)](https://crpc8-mitron-bank-credit-card-sahil-kavitake.streamlit.app/)
+📌 Google Colab: https://colab.research.google.com/drive/1Gzdm3hKOL10-5ZOci6qheXxGLrxGz4Wk<br> 
+[![](https://colab.google/static/images/icons/colab.png)](https://colab.research.google.com/drive/1Gzdm3hKOL10-5ZOci6qheXxGLrxGz4Wk) <br>
 
 # 🙏 Special thanks 🙏
 Thanking Mr.Bashnir Rover Sir, Dhaval Patel Sir, Hemanand Vadivel Sir and Codebasics team for providing me with opportunities like this to utilize and showcase my skills.
