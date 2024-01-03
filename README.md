@@ -29,7 +29,7 @@ In this project, I've harnessed the power of machine learning to cluster custome
 # 🌐 IMPORTANT LINKS 🌐
 📌 Full Youtube Video link : https://www.youtube.com/watch?v=2EJcXZGZ7bg <br>
 [![IMAGE ALT TEXT HERE](https://i3.ytimg.com/vi/2EJcXZGZ7bg/maxresdefault.jpg)](https://www.youtube.com/watch?v=2EJcXZGZ7bg)
-📌 Streamlit Application : https://lnkd.in/djdzY6-d <br>
+📌 Streamlit Application : https://crpc8-mitron-bank-credit-card-sahil-kavitake.streamlit.app/ <br>
 [![IMAGE ALT TEXT HERE](https://github.com/SahilSK202/mitron_bank_customer_data_analysis/blob/main/assets/streamlit.png)](https://crpc8-mitron-bank-credit-card-sahil-kavitake.streamlit.app/)
 📌 Google Colab: https://colab.research.google.com/drive/1Gzdm3hKOL10-5ZOci6qheXxGLrxGz4Wk<br> 
 [![](https://colab.google/static/images/icons/colab.png)](https://colab.research.google.com/drive/1Gzdm3hKOL10-5ZOci6qheXxGLrxGz4Wk) <br>
