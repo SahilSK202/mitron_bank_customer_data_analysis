@@ -33,6 +33,7 @@ In this project, I've harnessed the power of machine learning to cluster custome
 [![IMAGE ALT TEXT HERE](https://github.com/SahilSK202/mitron_bank_customer_data_analysis/blob/main/assets/streamlit.png)](https://crpc8-mitron-bank-credit-card-sahil-kavitake.streamlit.app/)
 📌 Google Colab: https://colab.research.google.com/drive/1Gzdm3hKOL10-5ZOci6qheXxGLrxGz4Wk<br> 
 [![](https://colab.google/static/images/icons/colab.png)](https://colab.research.google.com/drive/1Gzdm3hKOL10-5ZOci6qheXxGLrxGz4Wk) <br>
+📌 Canva Presentation Link : https://www.canva.com/design/DAF36QAiqxE/IebfCWFpAdZhzAE8LOLTLQ/edit/
 
 # 🙏 Special thanks 🙏
 Thanking Mr.Bashnir Rover Sir, Dhaval Patel Sir, Hemanand Vadivel Sir and Codebasics team for providing me with opportunities like this to utilize and showcase my skills.
