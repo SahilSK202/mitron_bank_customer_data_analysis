@@ -27,9 +27,9 @@ In this project, I've harnessed the power of machine learning to cluster custome
 ⭐Achieve Seamless Customer Interactions: Create a cohesive and personalized experience for Mitron Bank's valued customers.
 
 # 🌐 IMPORTANT LINKS 🌐
-📌 Full Youtube Video link : https://lnkd.in/dz5sDS5v
-📌 Streamlit Application : https://lnkd.in/djdzY6-d
-📌 GitHub: https://lnkd.in/d9FuWduC
+📌 Full Youtube Video link : https://lnkd.in/dz5sDS5v <br>
+📌 Streamlit Application : https://lnkd.in/djdzY6-d <br>
+📌 GitHub: https://lnkd.in/d9FuWduC <br>
 
 # 🙏 Special thanks 🙏
 Thanking Mr.Bashnir Rover Sir, Dhaval Patel Sir, Hemanand Vadivel Sir and Codebasics team for providing me with opportunities like this to utilize and showcase my skills.
